@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+    <Container version="2">
+    <Name>ngrok</Name>
+    <Repository>ngrok/ngrok</Repository>
+    <Registry>https://hub.docker.com/r/ngrok/ngrok</Registry>
+    <Network>bridge</Network>
+    <Privileged>false</Privileged>
+    <Support>https://forums.unraid.net/forum/55-general-support/</Support>
+    <Project>https://github.com/aleyr/docker-ngrok/</Project>
+    <Overview>Allows for easier ngrok usage in UNRaid</Overview>
+    <WebUI>http://[IP]:[PORT:5800]</WebUI>
+    <TemplateURL></TemplateURL/>
+    <Icon>https://raw.githubusercontent.com/Aleyr/unraid-ngrok/main/icon.png</Icon>
+    <ExtraParams></ExtraParams>
+    <PostArgs/>
+    <DonateText/>
+    <DonateLink/>
+</Container>
